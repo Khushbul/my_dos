@@ -1,0 +1,40 @@
+.signupdiv{
+    position: relative;
+    height: flex;
+    width: flex;
+    left: 10%;
+}
+
+.signupform{
+    background-color: gray;
+    position: relative;
+    top: 50px;
+    height: flex;
+    width: 500px;
+    left: 40%;    
+}
+
+.signupform ul li{
+    list-style: none;
+    margin-bottom: 5px;
+    margin-left: 15px ;
+}
+
+.signupform  ul li label{
+    position: relative;
+    float: left;
+    clear: right;
+    width: 100px;
+    text-align: left;
+    font-weight: bold;
+    margin-right: 10px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.signupform ul li input, select, span {
+    position: relative;
+    float: left;
+    margin-bottom: 10px;
+}
+ 
